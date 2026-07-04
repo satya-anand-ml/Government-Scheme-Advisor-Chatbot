@@ -1,14 +1,4 @@
-# Core
-python-dotenv==1.0.1
-
-# UI
-streamlit==1.32.2
-
-# LLM
-torch>=2.10.0
-transformers>=4.36.0
-sentencepiece>=0.1.99
-
-# Utilities
-requests==2.31.0
-tqdm==4.66.1
+streamlit==1.47.0
+huggingface_hub==0.34.0
+python-dotenv==1.1.1
+requests==2.32.4
